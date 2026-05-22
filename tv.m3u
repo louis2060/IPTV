@@ -1,14 +1,14 @@
 港澳,#genre#
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,https://iptv.707626.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,rtmp://118.145.86.104/live/yifatv-jade01
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,https://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,http://rihou.cc:555/tv/[Mt]无线翡翠
@@ -26,12 +26,13 @@
 翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,http://154.37.222.158:8080/livehttpplay?channel_id=30025
-翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,http://tv123.vvvv.ee/live.php/?ch=ac8f7343435
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://tl.061833.xyz/tl/null-12
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -53,6 +54,7 @@
 明珠台,http://154.37.222.158:8080/livehttpplay?channel_id=30026
 明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
 無線新聞,http://r.jdshipin.com/CkuBd
+無線新聞,http://cdn6.163189.xyz/163189/wxxw
 無線新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 無線新聞,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 無線新聞,http://67.220.71.199:2347/livehttpplay?channel_id=20123
@@ -64,13 +66,10 @@
 無線新聞,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 無線新聞,http://74.91.26.218:82/live/inews.m3u8
 無線新聞,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞,https://cdn6.163189.xyz/163189/wxxw
 無線新聞,http://rihou.cc:555/tv/[Uk]无线新闻
 無線新聞,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283852
 無線新聞,http://rihou.cc:555/tv/[SX]无线新闻
 無線新聞,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-無線新聞,http://pull-vivek.speedws.com/live/aaawxxw.flv
-無線新聞,http://php.jdshipin.com/smt.php?id=inews_twn
 無線新聞,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 無線新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
 無線新聞,rtmp://61.184.240.184/live/yifatv-wxxw01
@@ -79,6 +78,7 @@
 無線新聞,https://hls.iill.top/api/TVB-News/index.m3u8
 無線新聞,http://120.234.44.98:18180/TV00000000000000000034@HHZT
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB PLUS,https://hls.163189.xyz/163189/a2beac471af96802
 TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
 TVB PLUS,https://iptv.707626.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
 TVB PLUS,http://154.37.222.158:8080/livehttpplay?channel_id=30023
@@ -99,7 +99,6 @@ TVB PLUS,http://156.238.248.80:8880/play/1573.m3u8
 TVB PLUS,http://156.238.248.80:8880/play/376.m3u8
 TVB PLUS,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB PLUS,https://smt.1678520.xyz/163189/18e96648d4420d9e
-TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
 ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
 ViuTV,https://cdn.163189.xyz/163189/viu
@@ -123,6 +122,7 @@ ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 ViuTV,http://154.37.222.158:8080/livehttpplay?channel_id=30032
 ViuTV,http://120.234.44.98:18180/TV00000000000000000037@HHZT
 HOY77,http://cdn.163189.xyz/163189/hoy
+HOYTV,http://cdn6.163189.xyz/163189/hoy
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
@@ -164,6 +164,7 @@ RTHK32,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyq
 RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 RTHK32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
 TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://cdn6.163189.xyz/163189/tvbxh
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://iptv.707626.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
 TVB星河,http://tl.061833.xyz/tl/null-7
@@ -234,9 +235,8 @@ TVB星河,http://156.238.248.80:8880/play/1575.m3u8
 黃金華劇台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQjvVFeCCpIIGhOgkDXPg7MYz11wusehbcDMnpOMrO4J2kh0BiRIUI4PSi6oclQQxBEa3LWDPEk4alHzn4Ghlw7Ivy2lTajLtB0MZkQ024TiQMWZE-gnOi7sb615G5YK5_06gn4BIF1FZrDDmX-eioR2qBcLVRM2lcVafyXpNfAaMWuoZ4efura2yNaZy2YbITkWxN4XfxdFxzwV3rMZAdFXeAoMCwMCMdVUt8_zqJN0.m3u8?u=1756878715
 黃金華劇台,http://iptv.4666888.xyz/iptv2A.php?id=34
 黃金華劇台,https://iptv.707626.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
-娛樂新聞台,https://iptv.707626.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+娛樂新聞台,http://cdn6.163189.xyz/163189/ylxw
 娛樂新聞台,http://tl.061833.xyz/tl/null-14
-娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
 娛樂新聞台,http://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
 娛樂新聞台,http://iptv.4666888.xyz/iptv2A.php?id=36
 娛樂新聞台,http://rihou.cc:555/tv/[Uk]无线娱乐
