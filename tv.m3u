@@ -3,6 +3,7 @@
 翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
 翡翠台,https://cdn10.163189.xyz/163189/75ace425-1c8f-4cf2-88a1-96726edb9710/
 翡翠台,https://cdn6.163189.xyz/163189/fct
+翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
 翡翠台,https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
@@ -59,6 +60,7 @@
 無線新聞,http://r.jdshipin.com/CkuBd
 無線新聞,http://cdn6.163189.xyz/163189/wxxw
 無線新聞,http://cdn6.veryfast.filegear-sg.me/163189/wxxw
+無線新聞,https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
 無線新聞,https://test.946985.filegear-sg.me/proxy/0aea173d24cb1a67
 無線新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 無線新聞,http://67.220.71.199:2347/livehttpplay?channel_id=30024
@@ -86,6 +88,7 @@ TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB PLUS,https://hls.163189.xyz/163189/a2beac471af96802
 TVB PLUS,https://cdn10.163189.xyz/163189/1cd50dbc-10ab-458b-8f3e-91368bcc934b/
 TVB PLUS,https://smt.1678520.xyz/163189/tvbp
+TVB PLUS,https://iptv.852851.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
 TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
 TVB PLUS,https://iptv.707626.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
 TVB PLUS,http://154.37.222.158:8080/livehttpplay?channel_id=30023
@@ -386,7 +389,7 @@ TVBS新聞台,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master
 TVBS新聞台,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新聞台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1052
 TVBS新聞台,http://208.87.242.79/livehttpplay?channel_id=20165
-東森新聞,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-dsxw.flv
+東森新聞,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
 東森新聞,http://49.232.143.177:80/pyxg/export.php?id=45&key=cc89 
 東森新聞,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv152&token=https://t.me/GPT_858
 東森新聞,http://rihou.cc:555/tv/东森新闻
@@ -396,7 +399,10 @@ TVBS新聞台,http://208.87.242.79/livehttpplay?channel_id=20165
 東森新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1014
 東森新聞,http://rihou.cc:555/tv/[Hk]东森新闻
 東森新聞,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
-中天新聞,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-ztxwt.flv
+中天新聞,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
+中天新聞,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
+中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新聞,rtmp://home.aceimage.cn/live/332123-ztxw
 中天新聞,http://49.232.143.177:80/pyxg/export.php?id=44&key=cc89 
 中天新聞,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 中天新聞,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
@@ -419,6 +425,7 @@ TVBS新聞台,http://208.87.242.79/livehttpplay?channel_id=20165
 中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
 中天新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 寰宇新聞,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+寰宇新聞,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 寰宇新聞,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 寰宇新聞,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
 寰宇新聞,http://rihou.cc:555/tv/寰宇新闻
