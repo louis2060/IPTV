@@ -33,13 +33,13 @@
 翡翠台,http://154.37.222.158:8080/livehttpplay?channel_id=30025
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,http://tv123.vvvv.ee/live.php/?ch=ac8f7343435
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
 明珠台,https://cdn10.163189.xyz/163189/1f2b21c8-6ff6-423e-ac52-5593ade00a8e/
 明珠台,http://atryffad.usa3.345123.xyz/jrw.php?id=3
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbmzt
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
@@ -93,6 +93,7 @@
 無線新聞,http://api.kkhk.itv888.vip:8080/streams/20f6fd3f4cc/index.m3u8
 無線新聞,https://hls.iill.top/api/TVB-News/index.m3u8
 無線新聞,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+TVB PLUS,https://cdn9.163189.xyz/smt1.1.php?id=j2_twn
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB PLUS,https://hls.163189.xyz/163189/a2beac471af96802
 TVB PLUS,https://cdn10.163189.xyz/163189/1cd50dbc-10ab-458b-8f3e-91368bcc934b/
@@ -110,7 +111,6 @@ TVB PLUS,http://r.jdshipin.com/ndGgS
 TVB PLUS,http://rihou.cc:555/tv/[Uk]Plus综合
 TVB PLUS,http://rihou.cc:555/tv/[Mt]Plus综合
 TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
-TVB PLUS,https://cdn9.163189.xyz/smt1.1.php?id=j2_twn
 TVB PLUS,http://rihou.cc:555/tv/[SX]Plus综合
 TVB PLUS,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmzdDaM5ESuA4OGFRoBeTq1D12jeIS1It1QSHbFcFsX9D13WmfdsrQS7s0FbmQfsGvORPqpAWZo2Ly8qiDxaDgEZrn-NsaBHcUYw7kDNK7vzpVT0I7Sym35k_cBQlQoA8tQceUnUjlc3skRKn280RHCJaugVHMZKPC6SKqD6G5KJfCHvJR8-m7Ptgfa6y9ozeohWjIW3nt37T_fESHlfYsQ.m3u8?u=1756878715
 TVB PLUS,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
@@ -138,11 +138,11 @@ ViuTV,http://156.238.248.80:8880/play/477.m3u8
 ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 ViuTV,http://154.37.222.158:8080/livehttpplay?channel_id=30032
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY77,http://cdn6.veryfast.filegear-sg.me/163189/hoy
 HOY77,http://atryffad.usa3.345123.xyz/jrw.php?id=1
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY77,http://rihou.cc:555/tv/[Uk]有线综合
@@ -249,25 +249,25 @@ TVB星河,http://156.238.248.80:8880/play/1575.m3u8
 翡翠劇集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 翡翠劇集台,http://rihou.cc:555/tv/[Hv]无线翡剧
 翡翠劇集台,https://cdn6.163189.xyz/163189/tvbd
+黄金翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=32
 黄金翡翠台,http://tl.061833.xyz/tl/null-2
 黄金翡翠台,http://rihou.cc:555/tv/[Uk]黄金翡翠
 黄金翡翠台,rtmp://nowast.net/live/yifatv-jade01
 黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
 黄金翡翠台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUxxL1--UxpftQ8Xs-VxVuXRk0-_8P0MsgZvayqOumBh0XJAp8mmboompRTJU71LLI3z5fFMFL9Kggr7tAQKOIgsHPddS7WrZM6ZGrHZvUstV2XrHOpzTFIJ4tbMlZj-m81zGhlTcJTNOEURnfCEVu38kWxz59RskZ2Zbgy5qoszm_lpSgXQvhXz1j5twetwQ_4WAPk_s6SIQk0XdUpthjjTtSPxImgz3cj5BhQI1x4Sk.m3u8?u=1756878715
 黄金翡翠台,rtmp://118.145.86.104/live/yifatv-jade01
-黄金翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=32
+黃金華劇台,http://iptv.4666888.xyz/iptv2A.php?id=34
 黃金華劇台,https://cdn10.163189.xyz/163189/fdc65fb4-6222-4480-85f0-08dc76f180a9/
 黃金華劇台,http://tl.061833.xyz/tl/null-9
 黃金華劇台,http://rihou.cc:555/tv/[Hv]黄金华剧
 黃金華劇台,http://pull-vivek.speedws.com/live/aaahjhj.flv
 黃金華劇台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQjvVFeCCpIIGhOgkDXPg7MYz11wusehbcDMnpOMrO4J2kh0BiRIUI4PSi6oclQQxBEa3LWDPEk4alHzn4Ghlw7Ivy2lTajLtB0MZkQ024TiQMWZE-gnOi7sb615G5YK5_06gn4BIF1FZrDDmX-eioR2qBcLVRM2lcVafyXpNfAaMWuoZ4efura2yNaZy2YbITkWxN4XfxdFxzwV3rMZAdFXeAoMCwMCMdVUt8_zqJN0.m3u8?u=1756878715
-黃金華劇台,http://iptv.4666888.xyz/iptv2A.php?id=34
 黃金華劇台,https://iptv.707626.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
+娛樂新聞台,http://iptv.4666888.xyz/iptv2A.php?id=36
 娛樂新聞台,http://cdn6.163189.xyz/163189/ylxw
 娛樂新聞台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbylxw
 娛樂新聞台,http://tl.061833.xyz/tl/null-14
 娛樂新聞台,http://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
-娛樂新聞台,http://iptv.4666888.xyz/iptv2A.php?id=36
 娛樂新聞台,http://rihou.cc:555/tv/[Uk]无线娱乐
 娛樂新聞台,http://rihou.cc:555/tv/[PL]无线娱乐
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -289,7 +289,7 @@ TVBJ1,https://6.cdn.loc.cc/163189.php?id=j1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ1,http://tv123.vvvv.ee/live.php/?ch=a37fc4d4465
 TVBJ1,https://cdn6.163189.xyz/163189/j1
-SUPER金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+SUPER金曲,http://iptv.4666888.xyz/iptv2A.php?id=17
 SUPER獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 NOW新聞台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
 NOW新聞台,https://cdn.163189.xyz/163189/now
@@ -399,8 +399,6 @@ NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 澳門資訊,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳門資訊,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7mTqxQB_sqm6bXI0cSeVrED72L0iGQ_F_c_e1IQeys5Bxx3iqVJnUqGouXg0_Dtjz71tg9LDLVPkTBrrdA0E_cDG8_mIAzfYeDQsza1F1q8cADpdVqf--XM7VREBUM6cwc9fCyJUrXEzBMngVgdq4kNGCIwlkFCazgMn0Q0Iat49kObc8WhjUzJPTgp2o_vbpy42wqdZ-ShhRcOuTTLlUw.m3u8?u=1756878715
 澳門Macau,http://r.jdshipin.com/QFhCq
-法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-法國時尚,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUNriqSLSd3R_OlGr2Tr-qPgP3hcAaKOEoz4Yk4-VY_noLIW5IHZa-5dD-Hr-8WZ4izMX0--a7TyYrGBQBJFkqA7vEuzws2dnNk5rETqXhdoZRdDUMVXnHWHXP-5hRBrWA8UeVdv522EhmFG5aoLLSXooKj0_reAkfc2xq9mIBFxK6J8_Yvlexa6DhqU3-v4ddZyPAGonx2gTNPtUXVPIoCA.m3u8?u=1756878715
 台灣,#genre#
 TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
