@@ -1120,9 +1120,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=21
 #EXTINF:-1 tvg-name="愛奇藝 iQiyi" tvg-logo="https://live.fanmingming.com/tv/愛奇藝 iQiyi.png" group-title="新馬",愛奇藝 iQiyi
 http://156.238.248.80:8880/play/379.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
-http://220.231.188.194:8088/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
 http://8.138.7.223/tv/gdzj.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
+http://220.231.188.194:8088/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
@@ -1180,6 +1180,8 @@ http://107.150.60.122/live/gdxw.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="廣東",广东新闻
 http://119.123.176.46:8086/hls/45/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
 http://rihou.cc:555/tv/[Cx]广东体育
@@ -1201,8 +1203,6 @@ http://67.220.71.199:2347/livehttpplay?channel_id=20130
 http://67.220.71.199:2347/livehttpplay?channel_id=12028
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
 http://183.57.248.89:8183/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
 http://156.238.248.80:8880/play/1579.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
