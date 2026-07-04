@@ -304,6 +304,8 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳",HOY77
 https://iptv.707626.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
+http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
 http://atryffad.usa3.345123.xyz/jrw.php?id=15
@@ -465,6 +467,8 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://156.238.248.80:8880/play/368.m3u8
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.com/tv/千禧經典台.png" group-title="港澳",千禧經典台
 https://iptv.707626.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://live.fanmingming.com/tv/華麗翡翠台.png" group-title="港澳",華麗翡翠台
+http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
 #EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://live.fanmingming.com/tv/華麗翡翠台.png" group-title="港澳",華麗翡翠台
 https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://live.fanmingming.com/tv/華麗翡翠台.png" group-title="港澳",華麗翡翠台
