@@ -346,6 +346,8 @@ http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7UAuvTh1q9tYetsLOeStc6em-92EjFDyvyJDBKTghd0ClzVfCixwHuRnUrTdZdKxh-4RVVWLAhrw0gi7DHCVNLIw9L8UETIP1uFOQDfkpvkR9ho3zcH1kq9Ad7ux-ekCSTolsio4htq3OcL9xDjpjtjLo1_U-kBZNYG-UBZfUrNnLF3mmNWk9fItUuQTqhVuRp6qSWevVdibltcsI8Nm9w.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
+http://45.32.81.163:20000/163189/rthk31?163189&token=juli
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
@@ -369,6 +371,8 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://67.220.71.199:2347/livehttpplay?channel_id=30066
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
+http://45.32.81.163:20000/163189/rthk32?163189&token=juli
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
