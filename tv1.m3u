@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00JmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+http://45.32.81.163:20001/stream/tvb/fct/?163189&token=juli
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
@@ -207,6 +209,8 @@ https://hls.iill.top/api/TVB-News/index.m3u8
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD01JmtleT0lMkElMkElMkElMkE=
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
+http://45.32.81.163:20001/stream/tvb/tvbp/?163189&token=juli
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
 http://zwg6818.vicp.net:28000/bysid/82
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
@@ -649,6 +653,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=17
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNCZrZXk9JTJBJTJBJTJBJTJB
+#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
+http://45.32.81.163:20000/163189/now?163189&token=juli
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
 https://fast.hidns.vip/163189/now
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
