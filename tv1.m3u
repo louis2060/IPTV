@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
-http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00JmtleT0lMkElMkElMkElMkE=
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
-http://45.32.81.163:20001/stream/tvb/fct/?163189&token=juli
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00JmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
@@ -78,6 +76,8 @@ https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台4K.png" group-title="港澳",翡翠台4K
 http://tv123.vvvv.ee/live.php/?ch=ac8f7343435
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
+http://120.234.44.98:18180/TV00000000000000000035@HHZT
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD03JmtleT0lMkElMkElMkElMkE=
@@ -140,11 +140,11 @@ http://154.37.222.158:8080/livehttpplay?channel_id=30026
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
 http://120.234.44.98:18180/TV00000000000000000035@HHZT
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
+http://120.234.44.98:18180/TV00000000000000000034@HHZT
+#EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
 http://zwg6818.vicp.net:28000/bysid/83
-#EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
-http://120.234.44.98:18180/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
@@ -310,6 +310,8 @@ https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳",ViuTV
 http://154.37.222.158:8080/livehttpplay?channel_id=30032
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳",HOY77
+http://120.234.44.98:18180/TV00000000000000000036@HHZT
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳",HOY77
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳",HOY77
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xMCZrZXk9JTJBJTJBJTJBJTJB
@@ -337,6 +339,8 @@ http://r.jdshipin.com/sFw4S
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUifbCvbaece_BMIkyCYfuUzo8s99eDSj2zqfDb4JHiTHp93Bttr2RezloOVokINtmgPlVu0FnGQ8JcG93Rx2dWW2BKZbwL0q9aEWfGVMu0oxcJHaK8N0DyovPc1rRmbsQw5X3bcWs71NnCRnuwlJCdcSZ2l5FmF4ATd05i8zu0K5g6tQW7MAfN4oPxNm4T-j_ikRbNe7X5GC6R773ClA6QQ.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳",HOY77
 https://iptv.707626.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
+http://120.234.44.98:18180/TV00000000000000000078@HHZT
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xMSZrZXk9JTJBJTJBJTJBJTJB
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
@@ -366,6 +370,8 @@ http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7UAuvTh1q9tYetsLOeStc6em-92EjFDyvyJDBKTghd0ClzVfCixwHuRnUrTdZdKxh-4RVVWLAhrw0gi7DHCVNLIw9L8UETIP1uFOQDfkpvkR9ho3zcH1kq9Ad7ux-ekCSTolsio4htq3OcL9xDjpjtjLo1_U-kBZNYG-UBZfUrNnLF3mmNWk9fItUuQTqhVuRp6qSWevVdibltcsI8Nm9w.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
+http://120.234.44.98:18180/TV00000000000000000019@HHZT
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 https://fast.hidns.vip/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://cdn.163189.xyz/163189/rthk31
@@ -391,6 +397,8 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://67.220.71.199:2347/livehttpplay?channel_id=30066
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
+http://120.234.44.98:18180/TV00000000000000000017@HHZT
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
 https://fast.hidns.vip/163189/rthk32
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
@@ -652,6 +660,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-name="SUPER獎門人" tvg-logo="https://live.fanmingming.com/tv/SUPER獎門人.png" group-title="港澳",SUPER獎門人
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
+http://120.234.44.98:18180/TV00000000000000000088@HHZT
+#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNCZrZXk9JTJBJTJBJTJBJTJB
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
 http://45.32.81.163:20000/163189/now?163189&token=juli
@@ -764,6 +774,8 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.fanmingming.com/tv/天映頻道.png" group-title="港澳",天映頻道
 http://156.238.248.80:8880/play/369.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
+http://120.234.44.98:18180/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
@@ -789,8 +801,8 @@ https://iptv.707626.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 http://admin:admin@clnas0001.top:9981/stream/channelid/2121009931?profile=pass
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
 https://3ea9e6-31f5e6.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
-http://120.234.44.98:18180/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="港澳",鳳凰中文
+http://120.234.44.98:18180/TV00000000000000000008@HHZT
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="港澳",鳳凰中文
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xJmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="港澳",鳳凰中文
@@ -819,8 +831,8 @@ https://iptv.707626.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
 http://admin:admin@clnas0001.top:9981/stream/channelid/2064247055?profile=pass
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="港澳",鳳凰中文
 https://3ea9e6-31f5e6.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="港澳",鳳凰中文
-http://120.234.44.98:18180/TV00000000000000000008@HHZT
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港.png" group-title="港澳",鳳凰香港
+http://120.234.44.98:18180/TV00000000000000000024@HHZT
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港.png" group-title="港澳",鳳凰香港
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zJmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港.png" group-title="港澳",鳳凰香港
