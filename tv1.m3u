@@ -340,7 +340,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳",HOY77
 https://iptv.707626.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
-http://120.234.44.98:18180/TV00000000000000000078@HHZT
+http://120.234.44.98:18180/TV00000000000000000088@HHZT
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xMSZrZXk9JTJBJTJBJTJBJTJB
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港澳",HOY78
@@ -660,13 +660,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-name="SUPER獎門人" tvg-logo="https://live.fanmingming.com/tv/SUPER獎門人.png" group-title="港澳",SUPER獎門人
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
-http://120.234.44.98:18180/TV00000000000000000088@HHZT
+https://fast.hidns.vip/163189/now
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
 http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNCZrZXk9JTJBJTJBJTJBJTJB
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
-http://45.32.81.163:20000/163189/now?163189&token=juli
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
-https://fast.hidns.vip/163189/now
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳",NOW新聞台
@@ -881,6 +877,8 @@ http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCmNlRl1SjwGsnuUaXJJ-Rh7PHc5mfGy4YqwMNtAuab334I4Fd06I-z-PgKEtSegWN8f5-P_sxr76gfa7RcJPHZ54Na4zc03kEjNK0oGm7-AyMs9s6Qs6o7Sg8Y64VB8bAXTlJOH1wEhwFG0t2mRcaqFwZnD9_Yey7MH6YlvpDABdDmXpZCca56dPIozZWLQXiEY0sba9BWHAWSlJzL6Fuw.m3u8?u=175687871
 #EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://live.fanmingming.com/tv/澳視澳門.png" group-title="港澳",澳視澳門
 http://156.238.248.80:8880/play/1577.m3u8
+#EXTINF:-1 tvg-name="澳門體育" tvg-logo="https://live.fanmingming.com/tv/澳門體育.png" group-title="港澳",澳門體育
+https://cdn.qd.je/163189/amty
 #EXTINF:-1 tvg-name="澳門體育" tvg-logo="https://live.fanmingming.com/tv/澳門體育.png" group-title="港澳",澳門體育
 https://cdn6.cc.cd/163189/amty
 #EXTINF:-1 tvg-name="澳門體育" tvg-logo="https://live.fanmingming.com/tv/澳門體育.png" group-title="港澳",澳門體育
