@@ -93,7 +93,6 @@ TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 東森新聞,http://rihou.cc:555/tv/[Hk]东森新闻
 東森新聞,http://211.72.174.95:8138/0.ts
-中天新聞,http://222.128.55.152:9080/live/fc.m3u8
 中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新聞,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新聞,http://rihou.cc:555/tv/[Uk]中天新聞
@@ -113,8 +112,6 @@ TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 華視,http://rihou.cc:555/tv/[mn]华视闽南
 華視,rtmp://f13h.mine.nu/sat/tv111
 公視,http://rihou.cc:555/tv/[mn]公视闽南
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 東森超视,rtmp://f13h.mine.nu/sat/tv331
 東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
 東森電影,http://rihou.cc:555/tv/[Hk]东森电影
@@ -123,7 +120,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 龍華電影,http://rihou.cc:555/tv/[Pd]龙华电影
 龍華偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龍華日韓,http://rihou.cc:555/tv/[Pd]龙华日韩
-娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
 八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
 八度空間,https://cdn.qd.je/163189/8tv
@@ -173,8 +169,8 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 广东影视,http://m.061899.xyz/mg/gdys
 岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 岭南戏曲,http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
-大湾区卫视,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
 大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
+大湾区卫视,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
 大湾区卫视,http://gdyd.7259.cc.cd:4013/udp/239.77.0.215:5146
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广州综合,http://r.jdshipin.com/iR6Gq
@@ -194,12 +190,12 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://j.s.bkpcp.top/jj/hubws
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
 湖北卫视,http://rihou.cc:555/tv/[mg]湖北卫视
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
+湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 浙江卫视,http://183.129.255.66:8480/hls/27/index.m3u8
 浙江卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.71:10710
@@ -266,9 +262,9 @@ CCTV8电视剧,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
 CCTV8电视剧,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8电视剧,http://go.bkpcp.top/mg/cctv8
 CCTV8电视剧,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-CCTV9记录,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
-CCTV9记录,http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV9记录,http://go.bkpcp.top/mg/cctv9
+CCTV9纪录,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV9纪录,http://rihou.cc:555/tv/[mg]CCTV-09
+CCTV9纪录,http://go.bkpcp.top/mg/cctv9
 CCTV9纪录,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV10科教,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 CCTV10科教,http://rihou.cc:555/tv/[mg]CCTV-10
