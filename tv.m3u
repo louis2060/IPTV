@@ -92,7 +92,6 @@ NOW星影台,http://173.208.234.146/live/nowxy.m3u8
 TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 東森新聞,http://rihou.cc:555/tv/[Hk]东森新闻
-東森新聞,http://211.72.174.95:8138/0.ts
 中天新聞,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新聞,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新聞,http://rihou.cc:555/tv/[Uk]中天新聞
@@ -100,9 +99,9 @@ TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新聞,http://rihou.cc:555/tv/[Hk]寰宇新闻
 寰宇新聞,http://rihou.cc:555/tv/寰宇新闻
+非凡新聞,http://rihou.cc:555/tv/[Hk]非凡新闻
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新聞,http://rihou.cc:555/tv/[Hk]非凡新闻
 民視,http://rihou.cc:555/tv/[mn]民视闽南
 民視,http://iptv.4666888.xyz/iptv2A.php?id=55
 台視,http://rihou.cc:555/tv/[mn]台视闽南
@@ -121,7 +120,6 @@ TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 龍華偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龍華日韓,http://rihou.cc:555/tv/[Pd]龙华日韩
 風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
-八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
 八度空間,https://cdn.qd.je/163189/8tv
 八度空間,https://cdn6.cc.cd/163189/8tv
 八度空間,http://rihou.cc:555/tv/[Pd]八度空间
@@ -136,11 +134,11 @@ Channel 8,http://rihou.cc:555/tv/[Pd]CH8综合
 Channel U,https://cdn.qd.je/163189/chu
 Channel U,https://cdn6.cc.cd/163189/chu
 Channel U,http://rihou.cc:555/tv/[Pd]CHU综合
-AEC,https://cdn.qd.je/163189/aec
 AEC,https://cdn3.indevs.in/stream/live/aec/
 AEC,http://rihou.cc:555/tv/[SX]AstroAec
-AOD,https://cdn.qd.je/163189/aod
+AEC,https://cdn.qd.je/163189/aec
 AOD,https://cdn3.indevs.in/stream/live/aod/
+AOD,https://cdn.qd.je/163189/aod
 AOD,http://rihou.cc:555/tv/[SX]Astroaod
 Astro 欢喜台,https://cdn.qd.je/163189/hxt
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
@@ -165,8 +163,6 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-广东民生,http://107.150.60.122/live/gdgg.m3u8
-广东民生,http://192.151.150.154/live/gdgg.m3u8
 广东民生,http://plex.cyruslee.top:8888/udp/239.77.0.225:5146
 广东民生,http://8.134.175.232:4022/udp/239.77.0.225:5146
 广东民生,http://www.syy3.top:3861/udp/239.77.0.225:5146
@@ -192,7 +188,6 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 央衛,#genre#
 湖南卫视,http://183.129.255.66:8480/hls/32/index.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
 湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
 湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
@@ -303,14 +298,11 @@ CCTV17农业农村,http://107.150.60.122/live/cctv17hd.m3u8
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
-CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
-CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
 點播,#genre#
 成龍電影,https://live.ottiptv.cc/huya/11342386
 成龍電影,http://107.150.60.122/live/lbcl.m3u8
