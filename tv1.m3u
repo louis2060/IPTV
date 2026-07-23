@@ -9,6 +9,10 @@ http://120.234.44.98:18180/TV00000000000000000032@HHZT
 https://cdn6.cc.cd/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡翠
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+http://45.207.205.213:19890/trams/1939/playlist.m3u8?token=abcdsoooyu888
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台4K.png" group-title="港澳",翡翠台4K
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台4K.png" group-title="港澳",翡翠台4K
@@ -35,12 +39,16 @@ https://cdn6.cc.cd/163189/wxxw
 http://tvbnews.168.us.kg
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
 http://rihou.cc:555/tv/[Pd]无线新闻
+#EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳",無線新聞
+http://45.207.205.213:19890/trams/1619/playlist.m3u8?token=abcdsoooyu888
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
 https://cdn3.indevs.in/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
 http://rihou.cc:555/tv/[Pd]Plus综合
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港澳",TVB PLUS
+http://45.207.205.213:19890/trams/1615/playlist.m3u8?token=abcdsoooyu888
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳",ViuTV
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳",ViuTV
@@ -335,12 +343,16 @@ http://107.150.60.122/live/gdzj.m3u8
 http://rihou.cc:555/tv/[AtI]广东珠江
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
 http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東",广东珠江
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="廣東",广东新闻
 http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="廣東",广东新闻
 http://107.150.60.122/live/gdxw.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="廣東",广东新闻
 http://hello.ejoydom.com:9999/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="廣東",广东新闻
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="廣東",广东体育
