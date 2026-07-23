@@ -146,11 +146,13 @@ http://173.208.234.146/live/nowbg.m3u8
 #EXTINF:-1 tvg-name="NOW星影台" tvg-logo="https://live.fanmingming.com/tv/NOW星影台.png" group-title="港澳",NOW星影台
 http://173.208.234.146/live/nowxy.m3u8
 #EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.com/tv/美亞電影.png" group-title="港澳",美亞電影
-http://www.kaniptv.cn/uadl.php?etoken=UourVB3piNKfDxM5vHTE2DaX%2BotaOI6yvwJlQJqa7b09Tbl%2BEQcpsv6gTq5dUFosjFn6fFwDcuiKI7x0EIDTQLFzlWcVj%2BQXjB9T6%2Bnc6B%2FRk%2FRxyDDlICOBffzotkhG8yTVpOKOdJYNhF%2F2IHeSuQ%2FV6%2FpnJHeXArgY70sn3Tm3By6dLstRmebJxPRH5m7aEvnK0OOE74F5H2Oe1YB5kCKyUaJ5CRe690P74R3V6Lfl4U%2FzmpRxa0zBwhiPgea0ZISeFNyEhLO%2BqbsS535EJn4I%2FBB3o5z2e4Pl%2FrkhDaTy%2BB1RoLcBPK5ehLvMHrxCk6CKs6niN4gD0hwfYLcKzg%3D%3D
+http://173.208.234.146/live/mymovie.m3u8
 #EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.fanmingming.com/tv/天映頻道.png" group-title="港澳",天映頻道
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.fanmingming.com/tv/天映頻道.png" group-title="港澳",天映頻道
 https://cdn3.indevs.in/stream/live/typd/
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.fanmingming.com/tv/天映頻道.png" group-title="港澳",天映頻道
+http://173.208.234.146/live/typd.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="港澳",鳳凰資訊
@@ -219,6 +221,8 @@ http://rihou.cc:555/tv/[Uk]中天新聞
 http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="台灣",中天新聞
 http://hsjky.com.cn:8081/live/111ztxw.m3u8
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="台灣",中天新聞
+http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="台灣",寰宇新聞
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="台灣",寰宇新聞
