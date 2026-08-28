@@ -182,6 +182,8 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 广东珠江,http://ikuai.huase.ltd:8888/udp/239.77.0.1:5146
 广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广东新闻,http://107.150.60.122/live/gdxw.m3u8
 广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
@@ -191,6 +193,7 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 广东体育,http://rihou.cc:555/tv/[AtI]广东体育
 广东体育,http://107.150.60.122/live/gdty.m3u8
+广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东民生,http://ikuai.huase.ltd:8888/udp/239.77.0.225:5146
 广东民生,http://rihou.cc:555/tv/[AtI]广东民生
@@ -199,6 +202,8 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 岭南戏曲,http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 岭南戏曲,http://ikuai.huase.ltd:8888/udp/239.77.0.16:5146
 大湾区卫视,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
+大湾区卫视,http://47.104.178.59:3566/608917627
+大湾区卫视,http://119.233.255.62:1234/608917627
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://rihou.cc:555/tv/[Cx]广州综合
