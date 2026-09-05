@@ -4,8 +4,8 @@
 翡翠台,http://173.208.234.146/live/jade.m3u8
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
-翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,http://iptv.852851.xyz/l/G7LxUct7vFy7jWNse298AlBncbM4KdL4liz2kehcgRoQeKJqNBuOTg1YdaHQirzr/index.m3u8
+翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
@@ -16,13 +16,13 @@
 明珠台,http://120.198.103.68:9901/tsfile/live/1008_1.m3u8
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
-無線新聞,http://173.208.234.146/live/inews.m3u8
 無線新聞,http://120.234.44.98:18180/TV00000000000000000034@HHZT
-無線新聞,https://cdn6.cc.cd/163189/wxxw
 無線新聞,http://iptv.852851.xyz/l/uN5k9t2ezL3J_3LjmK3Fw1jWCGtBV8ZSZKrGpR7NlLJXJCX94sIYGrp_dethXGpc/index.m3u8
+無線新聞,http://173.208.234.146/live/inews.m3u8
+無線新聞,https://cdn6.cc.cd/163189/wxxw
 無線新聞,http://rihou.cc:555/tv/[Pd]无线新闻
-TVB PLUS,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB PLUS,https://10.fast.hidns.vip/163189/tvbp/
+TVB PLUS,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTV,http://120.234.44.98:18180/TV00000000000000000037@HHZT
@@ -43,8 +43,8 @@ RTHK31,http://rihou.cc:555/tv/[Pd]RTHK-31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 RTHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT
 RTHK32,http://rihou.cc:555/tv/[Pd]RTHK-32
-TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
 TVB星河,https://t.freetv.fun/live/tvbxing-he.m3u8
@@ -105,8 +105,8 @@ NOW星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1I
 澳門綜藝,http://rihou.cc:555/tv/[Pd]澳门综艺
 澳門Macau,http://rihou.cc:555/tv/[Pd]澳视卫星
 台灣,#genre#
-TVBS新聞台,http://rihou.cc:555/tv/[4g]tvbs新闻
 TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新聞台,http://rihou.cc:555/tv/[4g]tvbs新闻
 TVBS新聞台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 東森新聞,http://173.208.234.146/live/ebcnews.m3u8
 東森新聞,http://rihou.cc:555/tv/[Hk]东森新闻
