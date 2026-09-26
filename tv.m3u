@@ -19,9 +19,9 @@
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
 明珠台,https://hls.fishtv.dpdns.org/l/Nv8OYqY6PrQqTSl-z3GBdPZq82YcgTADQKZbqva5fqXeCGN12z5emPKvyz5fK_vh/index.m3u8
-無線新聞,http://iptv.852851.xyz/l/uN5k9t2ezL3J_3LjmK3Fw1jWCGtBV8ZSZKrGpR7NlLJXJCX94sIYGrp_dethXGpc/index.m3u8
+無線新聞,http://cdn6.123.rr.kg/163189/wxxw
+無線新聞,http://cdn6.123.rr.kg/163189/wxxwt
 無線新聞,http://120.234.44.98:18180/TV00000000000000000034@HHZT
-無線新聞,https://cdn6.cc.cd/163189/wxxw
 無線新聞,http://173.208.234.146/live/inews.m3u8
 無線新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 無線新聞,https://cdn.qd.je/163189/wxxw
@@ -199,6 +199,7 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 广东珠江,http://218.13.139.26:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://120.238.85.131:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.51.190.156:6633/rtp/239.77.0.114:5146
 广东珠江,http://ikuai.huase.ltd:8888/udp/239.77.0.1:5146
 广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
@@ -236,6 +237,7 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 岭南戏曲,http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 岭南戏曲,http://ikuai.huase.ltd:8888/udp/239.77.0.16:5146
 大湾区卫视,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
+大湾区卫视,http://183.51.190.156:6633/rtp/239.77.0.215:5146
 大湾区卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
 大湾区卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://120.238.94.82:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -262,6 +264,7 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 湖南卫视,http://183.129.255.66:8480/hls/32/index.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+湖南卫视,http://super8gb.x3322.net:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://173.208.234.146/live/hnws.m3u8
@@ -271,11 +274,13 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://super8gb.x3322.net:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 浙江卫视,http://173.208.234.146/live/zjws.m3u8
 江苏卫视,http://183.129.255.66:8480/hls/33/index.m3u8
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
+江苏卫视,http://super8gb.x3322.net:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 江苏卫视,http://173.208.234.146/live/jsws.m3u8
