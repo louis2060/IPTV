@@ -142,7 +142,7 @@ NOW星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1I
 澳門綜藝,http://cdn6.123.rr.kg/163189/amzy
 澳門綜藝,http://rihou.cc:555/tv/[Pd]澳门综艺
 澳門Macau,http://cdn6.123.rr.kg/163189/as
-台灣,#genre#
+台灣,#genre#,DE=3
 TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新聞台,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞台,http://istoreos.niming.nyc.mn:9300/live.m3u8?c=6&token=niming
@@ -153,8 +153,8 @@ TVBS新聞台,http://rihou.cc:555/tv/[4g]tvbs新闻
 東森新聞,http://rihou.cc:555/tv/[Hk]东森新闻
 東森新聞,http://rihou.cc:555/tv/[4g]东森新闻
 東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新聞,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
+中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新聞,http://173.208.234.146/live/ctinews.m3u8
 中天新聞,http://rihou.cc:555/tv/[Pd]中天新闻
 中天新聞,http://rihou.cc:555/tv/[4g]中天新闻
@@ -194,7 +194,7 @@ TVBS新聞台,http://rihou.cc:555/tv/[4g]tvbs新闻
 八度空間,https://cdn6.cc.cd/163189/8tv
 八度空間,http://rihou.cc:555/tv/[Pd]八度空间
 八度空間,http://rihou.cc:555/tv/[SX]八度空间
-新馬,#genre#
+新馬,#genre#,DE=3
 Channel 5,http://cdn6.123.rr.kg/163189/ch5
 Channel 5,http://rihou.cc:555/tv/[Pd]CH5综合
 Channel 8,http://cdn6.123.rr.kg/163189/ch8
@@ -303,15 +303,16 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 浙江卫视,http://173.208.234.146/live/zjws.m3u8
 江苏卫视,http://183.129.255.66:8480/hls/33/index.m3u8
+江苏卫视,http://218.13.139.26:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
 江苏卫视,http://super8gb.x3322.net:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 江苏卫视,http://173.208.234.146/live/jsws.m3u8
 广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+广东卫视,http://192.187.124.34:81/live/gdws4k.m3u8
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
 广东卫视,http://rihou.cc:555/tv/[mg]广东卫视
-广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://120.238.5.44:1698/hls/8/index.m3u8
@@ -403,26 +404,29 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
-4K高清,#genre#
+4K高清,#genre#,DE=3
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视4K,http://go.bkpcp.top/mg/hunws
+湖南卫视4K,http://192.187.124.34:81/live/hnws4k.m3u8
+湖南卫视4K,http://115.194.117.86:9999/4K超高清/湖南卫视4K
 湖南卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
 湖南卫视4K,http://j.s.bkpcp.top/jj/hunws
 湖南卫视4K,http://rihou.cc:555/tv/[mg]湖南卫视
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
-江苏卫视4K,http://go.bkpcp.top/mg/jsws
+江苏卫视4K,http://192.187.124.34:81/live/jsws4k.m3u8
+江苏卫视4K,http://115.194.117.86:9999/4K超高清/江苏卫视4K
 江苏卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
 江苏卫视4K,http://rihou.cc:555/tv/[mg]江苏卫视
 江苏卫视4K,http://j.s.bkpcp.top/jj/jsws
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 浙江卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+浙江卫视4K,http://192.187.124.34:81/live/zjws4k.m3u8
+浙江卫视4K,http://115.194.117.86:9999/4K超高清/浙江卫视4K
 浙江卫视4K,http://rihou.cc:555/tv/[mg]浙江卫视
-浙江卫视4K,http://go.bkpcp.top/mg/zjws
 浙江卫视4K,http://j.s.bkpcp.top/jj/zjws
 东方卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+东方卫视4K,http://192.187.124.34:81/live/dfws4k.m3u8
 东方卫视4K,http://rihou.cc:555/tv/[mg]东方卫视
-东方卫视4K,http://go.bkpcp.top/mg/dfws
 东方卫视4K,http://j.s.bkpcp.top/jj/dfws
 北京卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
 北京卫视4K,https://bj.luzong.cc.cd/bjws4k
