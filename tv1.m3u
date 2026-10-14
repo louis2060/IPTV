@@ -46,13 +46,13 @@ http://rihou.cc:555/tv/[Pd]无线明珠
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳,DE=3",明珠台
 https://hls.fishtv.dpdns.org/l/Nv8OYqY6PrQqTSl-z3GBdPZq82YcgTADQKZbqva5fqXeCGN12z5emPKvyz5fK_vh/index.m3u8
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
-http://cdn6.123.rr.kg/163189/wxxwt
-#EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
-http://cdn6.123.rr.kg/163189/wxxw
+http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
 http://120.234.44.98:18180/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
-http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+http://cdn6.123.rr.kg/163189/wxxwt
+#EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
+http://cdn6.123.rr.kg/163189/wxxw
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
 http://173.208.234.146/live/inews.m3u8
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://live.fanmingming.com/tv/無線新聞.png" group-title="港澳,DE=3",無線新聞
