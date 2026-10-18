@@ -192,19 +192,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-name="SUPER獎門人" tvg-logo="https://live.fanmingming.com/tv/SUPER獎門人.png" group-title="港澳,DE=3",SUPER獎門人
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
+http://173.208.234.146/live/nowxw.m3u8
+#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
 https://fast.hidns.vip/163189/now
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
 http://cdn.123.rr.kg/163189/now
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
 https://cdn.qd.je/163189/now
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
-http://173.208.234.146/live/nowxw.m3u8
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
-http://rihou.cc:555/tv/[Pd]Now新闻
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
-http://rihou.cc:555/tv/[Cx]Now新闻
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
-http://rihou.cc:555/tv/[Hk]Now新闻
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-logo="https://live.fanmingming.com/tv/NOW新聞台.png" group-title="港澳,DE=3",NOW新聞台
 http://iptv.852851.xyz/l/0uG2gp1-XJhCKanSZwj5agG_CQtb1OI_ddW2D8_QrWhuHxtLREWArEpO-KqhMdHD/index.m3u8
 #EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://live.fanmingming.com/tv/NOW爆谷台.png" group-title="港澳,DE=3",NOW爆谷台
