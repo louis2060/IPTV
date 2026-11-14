@@ -11,6 +11,7 @@
 翡翠台,http://173.208.234.146/live/jade.m3u8
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,https://cdn.qd.je/163189/fct
+翡翠台,http://167.88.62.43:64012/0.ts
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://rihou.cc:555/tv/[Pd]无线翡4K
@@ -55,8 +56,8 @@ HOY78,https://fast.hidns.vip/163189/hoy78
 HOY78,http://cdn.123.rr.kg/163189/hoy78
 HOY78,http://173.208.234.146/live/hoy78.m3u8
 HOY78,http://rihou.cc:555/tv/[Pd]有线新闻
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,http://cdn.123.rr.kg/163189/rthk31
 RTHK31,http://120.234.44.98:18180/TV00000000000000000019@HHZT
 RTHK31,http://rihou.cc:555/tv/[Pd]RTHK-31
@@ -98,7 +99,6 @@ TVBJ1,https://cdn6.cc.cd/163189/j1
 Mytv 2台,http://iptv.4666888.xyz/iptv2A.php?id=32
 SUPER金曲,http://iptv.4666888.xyz/iptv2A.php?id=17
 SUPER獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
-NOW新聞台,http://167.88.62.43:64026/0.ts
 NOW新聞台,https://fast.hidns.vip/163189/now
 NOW新聞台,http://173.208.234.146/live/nowxw.m3u8
 NOW新聞台,http://cdn.123.rr.kg/163189/now
@@ -285,6 +285,7 @@ Astro 欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 大湾区卫视,http://119.233.255.62:1234/608917627
 大湾区卫视,http://58.210.97.102:1234/608917627
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+大湾区卫视,http://167.88.62.43:64011/0.ts
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://rihou.cc:555/tv/[Cx]广州综合
